@@ -34,7 +34,8 @@ I have a Master's in Astrophysics and enjoy applying scientific approaches to so
 
 ## 🌐 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/siyabonga-zungu-851a501b4/)  
-- [GitHub](https://github.com/216037150)  
+- [GitHub](https://github.com/216037150)
+- [TikTok](https://www.tiktok.com/@masiya751?lang=en)
 
 ## 📊 Stats  
 ![Siyabonga's GitHub stats](https://github-readme-stats.vercel.app/api?username=216037150&show_icons=true&theme=radical)  
