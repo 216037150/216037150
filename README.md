@@ -10,7 +10,7 @@ Welcome to my GitHub profile! Here's a little about me:
 - ✨ **Fun Fact**: I have a Master's in Astrophysics and love exploring the intersection of science and software!
 
 ## 🌐 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/siyabonga-zungu/)
+- [LinkedIn](https://www.linkedin.com/in/siyabonga-zungu-851a501b4/)
 - [GitHub](https://github.com/216037150)
 
 ## 📊 Stats:
