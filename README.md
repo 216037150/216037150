@@ -22,7 +22,7 @@ Welcome to my GitHub profile! Here's a little about me:
 ## 🚀 Currently Learning  
 - Advanced Angular and React patterns for state management.  
 - Backend optimization with Spring Boot and PostgreSQL.  
-- Exploring Salesforce for enterprise-level solutions.  
+- Junior Learner- Full Stack Developer at Shaper  
 
 ## 🎯 Goals and Expectations  
 - Become a proficient Full Stack Developer capable of creating scalable web solutions.  
