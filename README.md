@@ -1,4 +1,4 @@
-# Siyabonga 
+# 
 
 # Hi, I'm Siyabonga Zungu 👋  
 Welcome to my GitHub profile! Here's a little about me:
