@@ -38,4 +38,4 @@ I have a Master's in Astrophysics and enjoy applying scientific approaches to so
 - [TikTok](https://www.tiktok.com/@masiya751?lang=en)
 
 ## 📊 Stats  
-![Siyabonga's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=216037150&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=216037150&theme=radical&no-frame=true&row=1)](https://github.com/216037150)
